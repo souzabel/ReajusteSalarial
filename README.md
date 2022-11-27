@@ -1,7 +1,4 @@
 <div align="center">
-<img  width="200"  alt="" justify-content="center" src=" ">
-<br>
-<br>
 <h1>Exercício proposto - Reajuste salarial</h1>
 </div>
 
